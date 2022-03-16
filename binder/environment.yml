@@ -1,0 +1,37 @@
+name: notebook
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - appmode
+  - bokeh
+  - holoviews
+  - bqplot
+  - cycler
+  - docopt
+  - joblib
+  - kiwisolver
+  - matplotlib
+  - nbinteract
+  - numpy
+  - pandas
+  - patsy
+  - pyparsing
+  - pytz
+  - scikit-learn
+  - scipy
+  - seaborn
+  - sklearn
+  - statsmodels
+  - toolz
+  - plotly
+  - cufflinks
+  - hvplot 
+  - ipywidgets
+  - pip
+  - pip:
+    - rich
+    - nbgitpuller
+    - jupytext
+
+
