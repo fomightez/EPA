@@ -16,7 +16,6 @@ pytz
 scikit-learn
 scipy
 seaborn
-sklearn
 statsmodels
 toolz
 plotly
